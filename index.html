@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Monitor de Metas | Transparência Hacker</title>
+        <meta name="description" content="Aplicativo generico da THacker">
+        <meta name="author" content="Transparência Hacker">
+
+        <link href="vendor/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <style>
+            .container {
+                text-align: center;
+            }
+            
+            #metas {
+                text-align: left;
+            }
+            
+            .meta input[type=checkbox] {
+                width: 30px;
+                height: 30px;
+                margin-top:15px;
+            }
+            
+            .meta {
+                line-height:1.5em;
+                margin-bottom: 12px;
+            }
+            .meta .descricao {
+                font-size: 24px;
+                line-height:1.2em;
+                width: 75%;
+            }
+            .meta .checkbox {
+                width: 20%;
+                float:right;
+            }
+            
+            .meta .comment {
+                font-size:14px;
+                font-weight:bold;
+            }
+            
+            #busca-metas input {
+                width:460px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="navbar navbar-inverse">
+              <div class="navbar-inner">
+                    <a class="brand" href="#">Monitor de Metas</a>
+              </div>
+        </div>
+        <div class="container">
+             <form id="busca-metas" class="form-search">
+                <input type="text" class="input-medium search-query"  placeholder="procure pelas metas...">
+                <button type="submit" class="btn">Buscar</button>
+            </form>
+        
+            <div id="metas">
+                    <div id="meta-{{id}}" class="meta" data-template>
+                       <div class="checkbox"><input type="checkbox" id="checkbox-meta-{{id}}"></div>
+                       <div class="descricao"><b>Meta {{id}}:</b> {{meta}}</div>
+                       <div class="comment"><a href="#">comentar (0)</a></div>
+                       <hr />
+                    </div>
+              </div>
+        
+        </div>
+        <a href="https://github.com/you"><img style="position: absolute; top: 0; right: 0; border: 0;" src="imgs/forkme.png" alt="Fork me on GitHub"></a>
+    <script src="vendor/js/jquery-1.5.1.min.js"></script>
+    <script src="vendor/js/tempo.js"></script>
+    <script>
+        data = {}
+        $(function () {
+            metas = Tempo.prepare("metas");
+           console.log("Tada ima!");
+           $.getJSON("data/metassp.json", function(result) {
+                metas.render(result);
+                data = result;
+           });
+        
+           $("#busca-metas button").click(function () {
+                event.preventDefault();
+                var search = $("#busca-metas input").val();
+                $.each(data, function(index, value) {
+                    if (value.meta.indexOf(search) == -1) {
+                        $("#meta-"+value.id).hide("slow");
+                    }
+                    else {
+                        $("#meta-"+value.id).show("slow");
+                    };
+                });
+           });
+        
+        });
+    </script>
+    </body>
+</html>

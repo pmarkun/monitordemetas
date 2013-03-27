@@ -1,0 +1,32 @@
+[
+{ 
+    "id" : 1,
+    "meta" :  "Inserir aproximadamente 280 mil famílias com renda de até meio salário mínimo no Cadastro Único para atingir 773 mil famílias cadastradas",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+},
+{
+    "id" : 2,
+    "meta" : "Beneficiar 228 mil novas famílias com o Programa Bolsa Família",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+},
+{
+    "id" : 3,
+    "meta" : "Implantar 60 Centros de Referência da Assistência Social (CRAS)",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+},
+{
+    "id" : 4,
+    "meta" : "Implantar 7 Centros de Referência Especializados de Assistência Social (CREAS)",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+},
+{
+    "id" : 5,
+    "meta" : "Garantir 100.000 vagas do Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC)",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+},
+{
+    "id" : 6,
+    "meta" : "Formalizar aproximadamente 22.500 microempreendedores individuais.",
+    "objetivo" : "1 - Superar a extrema pobreza na cidade de São Paulo, elevando a renda, promovendo a inclusão produtiva e o acesso a serviços públicos para todos"
+}
+]
