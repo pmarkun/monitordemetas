@@ -1,0 +1,802 @@
+[
+    {
+        "meta_numero": 1,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Inserir aproximadamente 280 mil fam\u00edlias com renda de at\u00e9 meio sal\u00e1rio m\u00ednimo no Cadastro \u00danico para atingir 773 mil fam\u00edlias cadastradas\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 2,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Beneficiar 228 mil novas fam\u00edlias com o Programa Bolsa Fam\u00edlia \u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 3,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Implantar 60 Centros de Refer\u00eancia da Assist\u00eancia Social - CRAS\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 4,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Implantar 7 Centros de Refer\u00eancia Especializada da Assist\u00eancia Social - CREAS\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 5,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Garantir 100.000 vagas do Programa Nacional de Acesso ao Ensino T\u00e9cnico e Emprego (PRONATEC)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 6,
+        "objetivo_numero": 1,
+        "objetivo": "Superar a extrema pobreza na cidade de S\u00e3o Paulo, elevando a renda, promovendo a inclus\u00e3o produtiva e o acesso a servi\u00e7os p\u00fablicos para todos",
+        "meta": "Formalizar aproximadamente 22.500 microempreendedores individuais\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 7,
+        "objetivo_numero": 2,
+        "objetivo": "Alcan\u00e7ar ao final de 2015 o \u00edndice no IDEB de 5,4 (anos iniciais) e 5,3 (anos finais) do Ensino Fundamental e garantir a alfabetiza\u00e7\u00e3o na idade certa (at\u00e9 8 anos) para todos os alunos matriculados na educa\u00e7\u00e3o b\u00e1sica",
+        "meta": "Valorizar o profissional da educa\u00e7\u00e3o por meio da implanta\u00e7\u00e3o de 32 p\u00f3los da Universidade Aberta do Brasil (UAB)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 8,
+        "objetivo_numero": 2,
+        "objetivo": "Alcan\u00e7ar ao final de 2015 o \u00edndice no IDEB de 5,4 (anos iniciais) e 5,3 (anos finais) do Ensino Fundamental e garantir a alfabetiza\u00e7\u00e3o na idade certa (at\u00e9 8 anos) para todos os alunos matriculados na educa\u00e7\u00e3o b\u00e1sica",
+        "meta": "Ampliar a jornada escolar de 100 mil alunos da Rede Municipal de Ensino, aderindo ao programa federal Mais Educa\u00e7\u00e3o\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 9,
+        "objetivo_numero": 2,
+        "objetivo": "Alcan\u00e7ar ao final de 2015 o \u00edndice no IDEB de 5,4 (anos iniciais) e 5,3 (anos finais) do Ensino Fundamental e garantir a alfabetiza\u00e7\u00e3o na idade certa (at\u00e9 8 anos) para todos os alunos matriculados na educa\u00e7\u00e3o b\u00e1sica",
+        "meta": "Ampliar a Rede CEU em 20 unidades\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 10,
+        "objetivo_numero": 3,
+        "objetivo": "Ampliar em 150 mil a oferta de vagas para a educa\u00e7\u00e3o infantil, assegurando a universaliza\u00e7\u00e3o do atendimento em pr\u00e9-escola para crian\u00e7as de 04 e 05 anos, atendendo a demanda declarada por creches em 01/01/2013 e consolidando o Modelo Pedag\u00f3gico \u00danico",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento e construir 243 Centros de Educa\u00e7\u00e3o Infantil \u2013 CEI (71 em andamento com o governo do Estado e 172 em parceria com o MEC)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 11,
+        "objetivo_numero": 3,
+        "objetivo": "Ampliar em 150 mil a oferta de vagas para a educa\u00e7\u00e3o infantil, assegurando a universaliza\u00e7\u00e3o do atendimento em pr\u00e9-escola para crian\u00e7as de 04 e 05 anos, atendendo a demanda declarada por creches em 01/01/2013 e consolidando o Modelo Pedag\u00f3gico \u00danico",
+        "meta": "Construir 65 Escolas Municipais de Educa\u00e7\u00e3o Infantil (EMEIs) e um Centro Municipal de Educa\u00e7\u00e3o Infantil (CEMEI)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 12,
+        "objetivo_numero": 3,
+        "objetivo": "Ampliar em 150 mil a oferta de vagas para a educa\u00e7\u00e3o infantil, assegurando a universaliza\u00e7\u00e3o do atendimento em pr\u00e9-escola para crian\u00e7as de 04 e 05 anos, atendendo a demanda declarada por creches em 01/01/2013 e consolidando o Modelo Pedag\u00f3gico \u00danico",
+        "meta": "Expandir a oferta de vagas para educa\u00e7\u00e3o infantil por meio dos novos CEUs\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 13,
+        "objetivo_numero": 3,
+        "objetivo": "Ampliar em 150 mil a oferta de vagas para a educa\u00e7\u00e3o infantil, assegurando a universaliza\u00e7\u00e3o do atendimento em pr\u00e9-escola para crian\u00e7as de 04 e 05 anos, atendendo a demanda declarada por creches em 01/01/2013 e consolidando o Modelo Pedag\u00f3gico \u00danico",
+        "meta": "Expandir a oferta de vagas para educa\u00e7\u00e3o infantil por meio da rede conveniada e outras modalidades de parcerias\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 14,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento, construir e instalar 32 unidades da Rede Hora Certa distribu\u00eddas em cada uma das Subprefeituras\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 15,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Desenvolver o processo de inclus\u00e3o do m\u00f3dulo do prontu\u00e1rio eletr\u00f4nico do paciente (PE) na rede municipal de sa\u00fade, integrada ao Sistema SIGA \u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 16,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento e construir 3 novos hospitais, ampliando em 750 o n\u00famero de leitos do sistema municipal de sa\u00fade\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 17,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Recuperar e adequar 16 hospitais municipais, com a ativa\u00e7\u00e3o de 250 leitos\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 18,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento, construir e instalar 43 novas Unidades B\u00e1sicas de Sa\u00fade - segundo o modelo da UBS Integral\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 19,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Reformar e ampliar os servi\u00e7os de 14 Prontos Socorros e 6 AMA-24h existentes, transformando-os em UPA\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 20,
+        "objetivo_numero": 4,
+        "objetivo": "Ampliar o acesso, aperfei\u00e7oar a qualidade, reduzir as desigualdades regionais e o tempo de espera e fortalecer a aten\u00e7\u00e3o integral das a\u00e7\u00f5es e servi\u00e7os de sa\u00fade",
+        "meta": "Implantar 5 novas UPA III (3 hospitalares e 2 isoladas)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 21,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento, \u00a0construir e instalar pelo menos 1 equipamento cultural nos 19 distritos que n\u00e3o possuem qualquer tipo de equipamento p\u00fablico de cultura\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 22,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Alcan\u00e7ar um calend\u00e1rio anual que inclua uma Virada Cultural no Centro, 2 Descentralizadas e mais 3 outros eventos tem\u00e1ticos\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 23,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Viabilizar dois novos Centros Culturais de Refer\u00eancia\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 24,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Ampliar a rede de Pontos de Cultura na cidade, com a inclus\u00e3o de 300 novos pontos\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 25,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Criar e efetivar o Fundo Municipal de Fomento \u00e0 Cultura\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 26,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Apoiar 300 artistas por meio do programa Bolsa Cultura\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 27,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Atingir 160 projetos anuais dos programas de Fomento ao Teatro, Dan\u00e7a e Cinema\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 28,
+        "objetivo_numero": 5,
+        "objetivo": "Ampliar o acesso da popula\u00e7\u00e3o \u00e0 cultura, por meio de equipamentos e a\u00e7\u00f5es, a partir da sua descentraliza\u00e7\u00e3o no territ\u00f3rio ",
+        "meta": "Atingir 500 projetos fomentados pelo Programa para Valoriza\u00e7\u00e3o das Iniciativas Culturais (VAI) e pelo VAI 2\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 29,
+        "objetivo_numero": 6,
+        "objetivo": "Ampliar o acesso \u00e0 moradia adequada",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento e produzir 55 mil Unidades Habitacionais\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 30,
+        "objetivo_numero": 6,
+        "objetivo": "Ampliar o acesso \u00e0 moradia adequada",
+        "meta": "Beneficiar 70 mil fam\u00edlias no Programa de Urbaniza\u00e7\u00e3o de Favelas\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 31,
+        "objetivo_numero": 6,
+        "objetivo": "Ampliar o acesso \u00e0 moradia adequada",
+        "meta": "Beneficiar 200 mil fam\u00edlias no Programa de Regulariza\u00e7\u00e3o Fundi\u00e1ria\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 32,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Implantar 18.000 novos pontos de ilumina\u00e7\u00e3o p\u00fablica eficiente\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 33,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Ampliar o efetivo da Guarda Civil Municipal em 2.000 novos integrantes\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 34,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Capacitar 6.300 agentes da Guarda Civil Metropolitana em Direitos Humanos e 2.000 em Media\u00e7\u00e3o de Conflitos\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 35,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Reformular a Opera\u00e7\u00e3o Delegada utilizando 1/3 do efetivo para o patrulhamento noturno em \u00e1reas com altos \u00edndices de viol\u00eancia\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 36,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Integrar os sistemas das diversas institui\u00e7\u00f5es municipais para melhorar o aproveitamento das informa\u00e7\u00f5es (Guarda Civil Metropolitana, Companhia de Engenharia de Tr\u00e1fego, SAMU, Defesa Civil)\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 37,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Obter terreno, projetar, licitar, licenciar, garantir a fonte de financiamento, construir e instalar uma Casa da Mulher Brasileira em S\u00e3o Paulo \u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 38,
+        "objetivo_numero": 7,
+        "objetivo": "Implantar um Programa Territorializado de Preven\u00e7\u00e3o da Viol\u00eancia e da Criminalidade",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento, construir e instalar mais uma Casa Abrigo e uma Casa de Passagem para ampliar a capacidade de atendimento de prote\u00e7\u00e3o \u00e0s mulheres v\u00edtimas de viol\u00eancia\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 39,
+        "objetivo_numero": 8,
+        "objetivo": "Promover a pr\u00e1tica de atividades esportivas, recreativas e de lazer",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento, \u00a0construir e instalar 2 Centros Ol\u00edmpicos de Inicia\u00e7\u00e3o e Forma\u00e7\u00e3o\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 40,
+        "objetivo_numero": 8,
+        "objetivo": "Promover a pr\u00e1tica de atividades esportivas, recreativas e de lazer",
+        "meta": "Criar 1 Parque de Esportes Radicais\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 41,
+        "objetivo_numero": 8,
+        "objetivo": "Promover a pr\u00e1tica de atividades esportivas, recreativas e de lazer",
+        "meta": "Abrir 32 equipamentos esportivos para uso 24 horas nos finais de semana por meio do programa \"Revirando a Virada\u201d\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 42,
+        "objetivo_numero": 8,
+        "objetivo": "Promover a pr\u00e1tica de atividades esportivas, recreativas e de lazer",
+        "meta": "Requalificar 50 equipamentos esportivos entre Centros Desportivos da Comunidade (CDC) e Clubes-Escola \u00a0\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 43,
+        "objetivo_numero": 8,
+        "objetivo": "Promover a pr\u00e1tica de atividades esportivas, recreativas e de lazer",
+        "meta": "Projetar, licitar, licenciar, garantir a fonte de financiamento, construir e instalar 5 Centros de Inicia\u00e7\u00e3o Esportiva - CIEs \u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 44,
+        "objetivo_numero": 9,
+        "objetivo": "Garantir a acessibilidade e mobilidade urbana nos espa\u00e7os p\u00fablicos e de uso p\u00fablico no que tange \u00e0s dimens\u00f5es arquitet\u00f4nica, comunicacional, metodol\u00f3gica, instrumental e atitudinal",
+        "meta": "Tornar acess\u00edveis \u00a0850 mil m\u00b2 de passeios p\u00fablicos \u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 45,
+        "objetivo_numero": 9,
+        "objetivo": "Garantir a acessibilidade e mobilidade urbana nos espa\u00e7os p\u00fablicos e de uso p\u00fablico no que tange \u00e0s dimens\u00f5es arquitet\u00f4nica, comunicacional, metodol\u00f3gica, instrumental e atitudinal",
+        "meta": "Efetivar o funcionamento da Central de Libras, Int\u00e9rpretes e Guias-Int\u00e9rpretes \u2013 CELIG no per\u00edodo de 24h/dia\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 46,
+        "objetivo_numero": 9,
+        "objetivo": "Garantir a acessibilidade e mobilidade urbana nos espa\u00e7os p\u00fablicos e de uso p\u00fablico no que tange \u00e0s dimens\u00f5es arquitet\u00f4nica, comunicacional, metodol\u00f3gica, instrumental e atitudinal",
+        "meta": "Garantir a oferta de vagas a todas as crian\u00e7as benefici\u00e1rias do Benef\u00edcio de Presta\u00e7\u00e3o Continuada da Assist\u00eancia Social (BPC) e seu acompanhamento nos moldes do BPC Escola\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 47,
+        "objetivo_numero": 9,
+        "objetivo": "Garantir a acessibilidade e mobilidade urbana nos espa\u00e7os p\u00fablicos e de uso p\u00fablico no que tange \u00e0s dimens\u00f5es arquitet\u00f4nica, comunicacional, metodol\u00f3gica, instrumental e atitudinal",
+        "meta": "Ampliar a acessibilidade para pessoas com mobilidade reduzida, garantindo 100% da frota acess\u00edvel\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 48,
+        "objetivo_numero": 9,
+        "objetivo": "Garantir a acessibilidade e mobilidade urbana nos espa\u00e7os p\u00fablicos e de uso p\u00fablico no que tange \u00e0s dimens\u00f5es arquitet\u00f4nica, comunicacional, metodol\u00f3gica, instrumental e atitudinal",
+        "meta": "Revitalizar os Centros de Forma\u00e7\u00e3o e Acompanhamento \u00e0 Inclus\u00e3o (CEFAI) ampliando a oferta de vagas para crian\u00e7as com necessidades especiais\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 49,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Criar e efetivar a Secretaria Municipal de Promo\u00e7\u00e3o da Igualdade Racial\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 50,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Viabilizar a implementa\u00e7\u00e3o das Leis Federais 10.639/2003 e 11.645/2008 que incluem no curr\u00edculo oficial da rede de ensino a tem\u00e1tica da Hist\u00f3ria e Cultura Afro-Brasileira e Ind\u00edgena\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 51,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Criar e efetivar a Secretaria Municipal de Pol\u00edticas Para as Mulheres\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 52,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Reestruturar os 5 Centros de Cidadania da Mulher, redefinindo suas diretrizes de atua\u00e7\u00e3o\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 53,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Desenvolver a\u00e7\u00f5es permanentes de combate \u00e0 homofobia e respeito \u00e0 diversidade sexual\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 54,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Implantar a Ouvidoria Municipal de Direitos Humanos e Combate \u00e0 Discrimina\u00e7\u00e3o e \u00e0 Intoler\u00e2ncia\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 55,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Implementar a Educa\u00e7\u00e3o em Direitos Humanos\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 56,
+        "objetivo_numero": 10,
+        "objetivo": "Promover uma cultura de cidadania e toler\u00e2ncia, reduzindo as manifesta\u00e7\u00f5es de discrimina\u00e7\u00e3o de todas as naturezas",
+        "meta": "Criar a Comiss\u00e3o da Verdade, da Mem\u00f3ria e da Justi\u00e7a no \u00e2mbito do Executivo municipal\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 57,
+        "objetivo_numero": 11,
+        "objetivo": "Requalificar os espa\u00e7os p\u00fablicos",
+        "meta": "Requalificar a infraestrutura e os espa\u00e7os p\u00fablicos do Centro, incluindo a renova\u00e7\u00e3o dos cal\u00e7ad\u00f5es e projetos estrat\u00e9gicos no Vale do Anhangaba\u00fa, Parque D. Pedro II, P\u00e1tio do Pari e os arredores do Mercado Municipal \u00a0\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 58,
+        "objetivo_numero": 11,
+        "objetivo": "Requalificar os espa\u00e7os p\u00fablicos",
+        "meta": "Implantar 42 \u00e1reas de conex\u00e3o wi-fi aberta, com qualidade e estabilidade de sinal\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 59,
+        "objetivo_numero": 11,
+        "objetivo": "Requalificar os espa\u00e7os p\u00fablicos",
+        "meta": "Criar 32 programas de requalifica\u00e7\u00e3o do espa\u00e7o p\u00fablico e melhoria de bairro\u00a0",
+        "eixo": "Compromisso com os direitos sociais e civis",
+        "eixo_numero": 1
+    },
+    {
+        "meta_numero": 60,
+        "objetivo_numero": 12,
+        "objetivo": "Promover o crescimento econ\u00f4mico e a gera\u00e7\u00e3o de postos de trabalho na cidade de S\u00e3o Paulo",
+        "meta": "Criar e efetivar a Ag\u00eancia S\u00e3o Paulo de Desenvolvimento\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 61,
+        "objetivo_numero": 12,
+        "objetivo": "Promover o crescimento econ\u00f4mico e a gera\u00e7\u00e3o de postos de trabalho na cidade de S\u00e3o Paulo",
+        "meta": "Criar uma ag\u00eancia de promo\u00e7\u00e3o de investimentos para a cidade de S\u00e3o Paulo a partir da expans\u00e3o da atua\u00e7\u00e3o da Companhia S\u00e3o Paulo de Parcerias - SPP\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 62,
+        "objetivo_numero": 12,
+        "objetivo": "Promover o crescimento econ\u00f4mico e a gera\u00e7\u00e3o de postos de trabalho na cidade de S\u00e3o Paulo",
+        "meta": "Criar e efetivar o Programa de Incentivos Fiscais nas Regi\u00f5es Leste e extremo Sul\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 63,
+        "objetivo_numero": 13,
+        "objetivo": "Promover a cidade de S\u00e3o Paulo como centro de tecnologia e Inova\u00e7\u00e3o",
+        "meta": "Obter terreno, projetar, licitar, licenciar, garantir a fonte de financiamento e instalar 1 Centro Tecnol\u00f3gico Municipal na Zona Leste e apoiar a cria\u00e7\u00e3o do Centro Tecnol\u00f3gico Estadual do Jaguar\u00e9\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 64,
+        "objetivo_numero": 13,
+        "objetivo": "Promover a cidade de S\u00e3o Paulo como centro de tecnologia e Inova\u00e7\u00e3o",
+        "meta": "Implantar o Programa VAI TEC para o incentivo de desenvolvedores de tecnologias inovadoras, abertas e colaborativas\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 65,
+        "objetivo_numero": 13,
+        "objetivo": "Promover a cidade de S\u00e3o Paulo como centro de tecnologia e Inova\u00e7\u00e3o",
+        "meta": "Apoiar a implanta\u00e7\u00e3o da UNIFESP e do Instituto Federal S\u00e3o Paulo nas Zonas Leste e Norte, respectivamente\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 66,
+        "objetivo_numero": 14,
+        "objetivo": "Proteger os recursos naturais da cidade, conservando as \u00e1reas de mananciais, ampliando o sistema de \u00e1reas verdes, preservando os recursos h\u00eddricos e monitorando as \u00e1reas de risco",
+        "meta": "Concluir as fases I e II e iniciar a fase III do Programa de Mananciais, beneficiando 70 mil fam\u00edlias\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 67,
+        "objetivo_numero": 14,
+        "objetivo": "Proteger os recursos naturais da cidade, conservando as \u00e1reas de mananciais, ampliando o sistema de \u00e1reas verdes, preservando os recursos h\u00eddricos e monitorando as \u00e1reas de risco",
+        "meta": "Criar e efetivar um programa de incentivos fiscais para carros el\u00e9tricos e pr\u00e9dios verdes\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 68,
+        "objetivo_numero": 14,
+        "objetivo": "Proteger os recursos naturais da cidade, conservando as \u00e1reas de mananciais, ampliando o sistema de \u00e1reas verdes, preservando os recursos h\u00eddricos e monitorando as \u00e1reas de risco",
+        "meta": "Criar um sistema de contrapartida para fins de implanta\u00e7\u00e3o de \u00e1reas verdes e financiamento de terrenos para parques\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 69,
+        "objetivo_numero": 14,
+        "objetivo": "Proteger os recursos naturais da cidade, conservando as \u00e1reas de mananciais, ampliando o sistema de \u00e1reas verdes, preservando os recursos h\u00eddricos e monitorando as \u00e1reas de risco",
+        "meta": "Readequar 34 Parques e Unidades de Conserva\u00e7\u00e3o Municipais\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 70,
+        "objetivo_numero": 14,
+        "objetivo": "Proteger os recursos naturais da cidade, conservando as \u00e1reas de mananciais, ampliando o sistema de \u00e1reas verdes, preservando os recursos h\u00eddricos e monitorando as \u00e1reas de risco",
+        "meta": "Cria\u00e7\u00e3o de 400 N\u00facleos de Defesa Civil - NUDEC\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 71,
+        "objetivo_numero": 15,
+        "objetivo": "Ampliar os \u00edndices de coleta seletiva oficial no munic\u00edpio de 2% (2012) para 10%",
+        "meta": "Ampliar a coleta seletiva municipal para os 21 distritos que ainda n\u00e3o s\u00e3o atendidos\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 72,
+        "objetivo_numero": 15,
+        "objetivo": "Ampliar os \u00edndices de coleta seletiva oficial no munic\u00edpio de 2% (2012) para 10%",
+        "meta": "Obter terrenos, projetar, licitar, licenciar, garantir a fonte de financiamento e construir 4 novas centrais de triagem automatizadas\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 73,
+        "objetivo_numero": 15,
+        "objetivo": "Ampliar os \u00edndices de coleta seletiva oficial no munic\u00edpio de 2% (2012) para 10%",
+        "meta": "Implantar 84 novos Ecopontos\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 74,
+        "objetivo_numero": 16,
+        "objetivo": "Ampliar as \u00e1reas de circula\u00e7\u00e3o exclusiva e qualificar o sistema de \u00f4nibus municipal, aumentando a velocidade m\u00e9dia dos hor\u00e1rios de pico de 14km/h (ago/2012) para 25km/hora",
+        "meta": "Projetar, licitar, licenciar, garantir a fonte de financiamento e construir 150 km de novos corredores de \u00f4nibus\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 75,
+        "objetivo_numero": 16,
+        "objetivo": "Ampliar as \u00e1reas de circula\u00e7\u00e3o exclusiva e qualificar o sistema de \u00f4nibus municipal, aumentando a velocidade m\u00e9dia dos hor\u00e1rios de pico de 14km/h (ago/2012) para 25km/hora",
+        "meta": "Implantar as novas modalidades temporais de Bilhete \u00danico (Di\u00e1ria, Semanal e Mensal)\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 76,
+        "objetivo_numero": 16,
+        "objetivo": "Ampliar as \u00e1reas de circula\u00e7\u00e3o exclusiva e qualificar o sistema de \u00f4nibus municipal, aumentando a velocidade m\u00e9dia dos hor\u00e1rios de pico de 14km/h (ago/2012) para 25km/hora",
+        "meta": "Implantar hor\u00e1rio de funcionamento 24h no transporte p\u00fablico municipal\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 77,
+        "objetivo_numero": 16,
+        "objetivo": "Ampliar as \u00e1reas de circula\u00e7\u00e3o exclusiva e qualificar o sistema de \u00f4nibus municipal, aumentando a velocidade m\u00e9dia dos hor\u00e1rios de pico de 14km/h (ago/2012) para 25km/hora",
+        "meta": "Implantar 150 km de faixas exclusivas de \u00f4nibus\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 78,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Implantar uma rede de 400 km de vias cicl\u00e1veis\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 79,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Modernizar a rede semaf\u00f3rica\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 80,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Realizar as obras previstas no \u00e2mbito da Opera\u00e7\u00e3o Urbana Consorciada \u00c1gua Espraiada (OUCAE)\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 81,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Projetar, licitar, licenciar e garantir a fonte de financiamento para a execu\u00e7\u00e3o do Plano Vi\u00e1rio Sul\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 82,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Projetar, licitar, licenciar e garantir a fonte de financiamento para viabilizar as obras do apoio vi\u00e1rio norte e sul da Marginal do Rio Tiet\u00ea\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 83,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Concluir obras do complexo Nova Radial\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 84,
+        "objetivo_numero": 17,
+        "objetivo": "Melhorar a mobilidade urbana universal reduzindo o \u00edndice de lentid\u00e3o no tr\u00e2nsito e diminuindo o n\u00famero de mortes em acidentes de tr\u00e2nsito",
+        "meta": "Projetar, licitar, licenciar, garantir a fonte de financiamento e construir a ponte Raimundo Pereira de Magalh\u00e3es\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 85,
+        "objetivo_numero": 18,
+        "objetivo": "Reduzir a ocorr\u00eancia de enchentes e alagamentos, diminuindo o \u00edndice anual de pontos de alagamento por mm de chuva",
+        "meta": "Intervir em 79 pontos de alagamentos por meio do Programa de Redu\u00e7\u00e3o de Alagamentos \u2013 PRA\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 86,
+        "objetivo_numero": 18,
+        "objetivo": "Reduzir a ocorr\u00eancia de enchentes e alagamentos, diminuindo o \u00edndice anual de pontos de alagamento por mm de chuva",
+        "meta": "Realizar interven\u00e7\u00f5es de macrodrenagem nos c\u00f3rregos Ponte Baixa, Zavuvus, Sumar\u00e9/\u00c1gua Preta, Aricanduva, Pra\u00e7a da Bandeira e Av. Anhaia Mello\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 87,
+        "objetivo_numero": 18,
+        "objetivo": "Reduzir a ocorr\u00eancia de enchentes e alagamentos, diminuindo o \u00edndice anual de pontos de alagamento por mm de chuva",
+        "meta": "Desenvolver o programa de drenagem e manejo das \u00e1guas pluviais, com a cria\u00e7\u00e3o de uma inst\u00e2ncia municipal de regula\u00e7\u00e3o, articula\u00e7\u00e3o e monitoramento da drenagem urbana\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 88,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Criar 32 Centros de Atendimento ao Cidad\u00e3o \u00a0CAC\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 89,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Criar a Subprefeitura de Sapopemba\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 90,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Ampliar e modernizar os servi\u00e7os oferecidos por meio do 156\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 91,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Implantar a Central de Opera\u00e7\u00f5es da Defesa Civil para a gest\u00e3o de riscos e respostas a desastres\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 92,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Implantar o Gabinete Digital, como instrumento de transpar\u00eancia e participa\u00e7\u00e3o social\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 93,
+        "objetivo_numero": 19,
+        "objetivo": "Aproximar a Prefeitura do cidad\u00e3o, descentralizando e modernizando a gest\u00e3o, aumentando a qualidade dos espa\u00e7os e servi\u00e7os e reduzindo o tempo de espera no atendimento",
+        "meta": "Implantar um Sistema de Informa\u00e7\u00e3o Geogr\u00e1fica, com dados abertos e livre consulta pelo p\u00fablico\u00a0",
+        "eixo": "Desenvolvimento econ\u00f4mico sustent\u00e1vel com redu\u00e7\u00e3o das desigualdades",
+        "eixo_numero": 2
+    },
+    {
+        "meta_numero": 94,
+        "objetivo_numero": 20,
+        "objetivo": "Promover a participa\u00e7\u00e3o e o controle social na administra\u00e7\u00e3o p\u00fablica municipal",
+        "meta": "Criar o Conselho de Desenvolvimento Econ\u00f4mico e Social e mais 6 novos Conselhos Tem\u00e1ticos\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 95,
+        "objetivo_numero": 20,
+        "objetivo": "Promover a participa\u00e7\u00e3o e o controle social na administra\u00e7\u00e3o p\u00fablica municipal",
+        "meta": "Realizar 18 Confer\u00eancias Municipais Tem\u00e1ticas\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 96,
+        "objetivo_numero": 20,
+        "objetivo": "Promover a participa\u00e7\u00e3o e o controle social na administra\u00e7\u00e3o p\u00fablica municipal",
+        "meta": "Criar Conselhos Participativos nas 32 Subprefeituras\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 97,
+        "objetivo_numero": 20,
+        "objetivo": "Promover a participa\u00e7\u00e3o e o controle social na administra\u00e7\u00e3o p\u00fablica municipal",
+        "meta": "Implementar todos os Conselhos Gestores previstos em Lei\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 98,
+        "objetivo_numero": 21,
+        "objetivo": "Revisar o marco regulat\u00f3rio do desenvolvimento urbano de forma participativa",
+        "meta": "Revisar o Plano Diretor Estrat\u00e9gico\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 99,
+        "objetivo_numero": 21,
+        "objetivo": "Revisar o marco regulat\u00f3rio do desenvolvimento urbano de forma participativa",
+        "meta": "Revisar a Lei de Parcelamento, Uso e Ocupa\u00e7\u00e3o do Solo\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    },
+    {
+        "meta_numero": 100,
+        "objetivo_numero": 21,
+        "objetivo": "Revisar o marco regulat\u00f3rio do desenvolvimento urbano de forma participativa",
+        "meta": "Revisar os Planos Regionais Estrat\u00e9gicos\u00a0",
+        "eixo": "Gest\u00e3o descentralizada, participativa e transparente",
+        "eixo_numero": 3
+    }
+]
