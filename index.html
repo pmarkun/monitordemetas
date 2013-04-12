@@ -8,44 +8,6 @@
 
         <link href="vendor/css/bootstrap.min.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
-        <style>
-            .container {
-                text-align: center;
-            }
-            
-            #metas {
-                text-align: left;
-            }
-            
-            .meta input[type=checkbox] {
-                width: 30px;
-                height: 30px;
-                margin-top:15px;
-            }
-            
-            .meta {
-                line-height:1.5em;
-                margin-bottom: 12px;
-            }
-            .meta .descricao {
-                font-size: 24px;
-                line-height:1.2em;
-                width: 75%;
-            }
-            .meta .checkbox {
-                width: 20%;
-                float:right;
-            }
-            
-            .meta .comment {
-                font-size:14px;
-                font-weight:bold;
-            }
-            
-            #busca-metas input {
-                width:460px;
-            }
-        </style>
     </head>
     <body>
         <div class="navbar navbar-inverse">
@@ -54,17 +16,52 @@
               </div>
         </div>
         <div class="container">
-             <form id="busca-metas" class="form-search">
-                <input type="text" class="input-medium search-query"  placeholder="procure pelas metas...">
-                <button type="submit" class="btn">Buscar</button>
-            </form>
-        
+            <div class="header">
+                <h1>Monitor de Metas</h1>
+                <div id="infoHeader">
+                    <div id="tempoAdm">Tempo de Administração <span class="highlight">115 dias (5%)</span></div>
+                    <div id="nomeCidade">São Paulo</div>
+                    <div id="tempoRest"><span class="highlight">1.345 dias (95%)</span> tempo restante</div>
+                    <div id="busca">
+                        <form id="busca-metas" class="form-search">
+                            <input type="text" class="input-medium search-query"  placeholder="procure pelas metas...">
+                            <button type="submit" class="btn">Buscar</button>
+                        </form>  
+                    </div>
+                    <div id="prefeito">
+                        <span>PREFEITO</span>
+                        <span>FERNANDO HADDAD (PT)</span>
+                        <a href="#">email@prefeitura.sp.gov.br</a>
+                    </div>
+                    <div id="downloadMetas">
+                        <a href="#">Baixe aqui o arquivo oficial da prefeitura com a definição das metas</a>
+                    </div>
+                </div>
+                <div id="metaCounter">
+                    <div id="metasRealizadas" style="width:50%">50 METAS REALIZADAS</div>
+                    <div id="metasPendentes" style="width:50%">50 METAS PENDENTES</div>
+                </div>
+            </div>
+
+            <div id="paginador">
+                <a href="#meta-1">1</a>
+                <a href="#meta-2">2</a>
+                <a href="#meta-3">3</a>
+                <a href="#meta-4">4</a>
+            </div>
             <div id="metas">
-                    <div id="meta-{{meta_numero}}" class="meta" data-template>
-                       <div class="checkbox"><input type="checkbox" id="checkbox-meta-{{meta_numero}}"></div>
-                       <div class="descricao"><b>Meta {{meta_numero}}:</b> {{meta}}</div>
-                       <div class="comment"><a href="#">comentar (0)</a> :: <a href="#">notícias (0)</a> :: <a href="#">legislação (0)</a></div>
-                       <hr />
+                    <div id="meta-{{meta.numero}}" class="meta" data-template>
+                        <div class="adote"><span>ADOTE ESTA META</span><span class="metaNumero">{{meta.meta_numero}}</span></div>
+                        <div class="descricao">{{meta}}</div>
+                        <div class="avalicao">
+                            <span class="realizada" width="40%">40</span>
+                            <span class="pendente" width="60%">60</span>
+                       </div>
+                       <div class="comment">
+                            <a href="#">comentar (0)</a>
+                            <a href="#">notícias (0)</a>
+                            <a href="#">legislação (0)</a>
+                        </div>
                     </div>
               </div>
         

@@ -1,1 +1,150 @@
+body {
+    background-color:#444f6f;
+    color:#a8b4cc;
+}
+margin:0 auto;
+.container {
+    text-align: center;
+}
+
+.header {
+    margin:20px;
+}
+.header h1 {
+    background-image:url("../imgs/logo.png");
+    text-indent: -9999px;
+    width:200px;
+    height:70px;
+    margin:0 auto;
+}
+
+.header #infoHeader {
+    clear:both;
+    margin:0 auto;
+    text-align: center;
+}
+
+.header #tempoAdm {
+    float:left;
+    margin:10px;
+}
+
+.header #nomeCidade {
+    float:left;
+    font-size:2em;
+    margin:10px;
+}
+
+.header #tempoRest {
+    float:left;
+    margin:10px;
+}
+
+.header #busca {
+    text-align: center;
+    clear:both;
+}
+.header #prefeito {
+    margin:0 auto;
+    width:300px;
+}
+.header #prefeito span {
+    color:#fff;
+    display:block;
+}
+
+.header #prefeito a {
+    color:#fff;
+}
+
+.header #downloadMetas {
+    color:#fff;
+    float:right;
+    width:200px;
+    margin-top:-50px;
+}
+
+.header #downloadMetas a {
+    color:#fff;
+}
+
+.header #metaCounter {
+    width:800px;
+    margin:0 auto;
+    border:1px solid white;
+    clear:both;
+}
+
+.header #metasRealizadas {
+    height:20px;
+    background-color:#8dd782;
+    float:left;
+    color:#2e9550;
+}
+
+.header #metasPendentes {
+    height:20px;
+    background-color:#e11315;
+    color:#fff;
+    float:left;
+}
+
+#paginador {
+    clear:both;
+    text-align: center;
+}
+#metas {
+    text-align: left;
+    height:480px;
+    overflow:auto;
+}
+
+.meta {
+    line-height:1.5em;
+    width:180px;
+    float:right;
+    height:480px;
+}
+.meta:nth-child(2n+5) { 
+    background-color:#6abfba; 
+}
+.meta:nth-child(5n+4) { 
+    background-color:#417d85; 
+}
+.meta:nth-child(5n+3) { 
+    background-color:#c65454; 
+}
+.meta:nth-child(5n+2) { 
+    background-color:#f2911c; 
+}
+.meta:nth-child(5n+1) { 
+    background-color:#f2cb04; 
+}
+
+.meta .adote {
+    color:#fff;
+}
+
+.meta .metaNumero {
+    font-size:2em;
+}
+
+.meta .descricao {
+    font-size: 24px;
+    line-height:1.2em;
+    width: 75%;
+}
+.meta .checkbox {
+    width: 20%;
+    float:right;
+}
+
+.meta .comment {
+    font-size:14px;
+    font-weight:bold;
+}
+
+#busca-metas input {
+    width:460px;
+}
 /* Put your styles here */
