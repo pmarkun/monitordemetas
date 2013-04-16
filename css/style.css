@@ -42,8 +42,15 @@ margin:0 auto;
 
 .header #busca {
     text-align: center;
-    clear:both;
+    float:left;
+    margin-top:20px;
 }
+
+.header #busca input {
+    width:340px;
+    height:20px;
+}
+
 .header #prefeito {
     margin:0 auto;
     width:300px;
@@ -60,8 +67,11 @@ margin:0 auto;
 .header #downloadMetas {
     color:#fff;
     float:right;
-    width:200px;
+    width:175px;
     margin-top:-50px;
+    margin-right:75px;
+    font-size:0.8em;
+    text-align:left;
 }
 
 .header #downloadMetas a {
@@ -87,25 +97,32 @@ margin:0 auto;
     background-color:#e11315;
     color:#fff;
     float:left;
+    text-align: right;
 }
 
 #paginador {
     clear:both;
     text-align: center;
+    margin:10px;
+}
+
+#paginador a {
+    color:#6A7998;
 }
 #metas {
     text-align: left;
     height:480px;
-    overflow:auto;
+    overflow:hidden;
 }
 
 .meta {
     line-height:1.5em;
     width:180px;
-    float:right;
+    float:left;
     height:480px;
+    overflow:hidden;
 }
-.meta:nth-child(2n+5) { 
+.meta:nth-child(5n+5) { 
     background-color:#6abfba; 
 }
 .meta:nth-child(5n+4) { 
@@ -123,16 +140,64 @@ margin:0 auto;
 
 .meta .adote {
     color:#fff;
+    height:70px;
+    font-size:0.8em;
+    padding:5px;
+    text-align: center;
 }
 
-.meta .metaNumero {
-    font-size:2em;
+.meta .adote .metaNumero {
+    margin-left:5px;
+    font-size:4em;
+}
+
+.meta .status.pendente {
+    height: 20px;
+    background-color:#ff0000;
+    text-align: center;
 }
 
 .meta .descricao {
-    font-size: 24px;
+    padding:10px;
+    font-size: 0.9em;
+    color:#000000;
+    font-weight:normal;
     line-height:1.2em;
-    width: 75%;
+    width: 80%;
+}
+
+.meta .avaliacao {
+    margin:15px;
+    width:80%;
+    border:1px solid #ffffff;
+    height:10px;
+    font-size:10px;
+}
+
+.meta .avaliacao .realizada {
+    background-color:#ffffff;
+    height:10px;
+}
+
+.meta .enviar {
+    text-align: center;
+    margin:15px;
+}
+
+.meta .comment {
+    padding:10px;
+    background-color:#ffffff;
+    opacity:0.4;
+}
+
+.meta .comment a {
+    font-size:1.2em;
+    border-bottom:2px dotted #2C6C77;
+    margin:10px;
+    opacity:1;
+    display:block;
+    clear:both;
+    font-color:#2C6C77;
 }
 .meta .checkbox {
     width: 20%;
@@ -144,7 +209,4 @@ margin:0 auto;
     font-weight:bold;
 }
 
-#busca-metas input {
-    width:460px;
-}
 /* Put your styles here */

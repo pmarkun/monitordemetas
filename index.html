@@ -10,11 +10,6 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <div class="navbar navbar-inverse">
-              <div class="navbar-inner">
-                    <a class="brand" href="#">Monitor de Metas</a>
-              </div>
-        </div>
         <div class="container">
             <div class="header">
                 <h1>Monitor de Metas</h1>
@@ -25,7 +20,7 @@
                     <div id="busca">
                         <form id="busca-metas" class="form-search">
                             <input type="text" class="input-medium search-query"  placeholder="procure pelas metas...">
-                            <button type="submit" class="btn">Buscar</button>
+                            <button type="submit" class="btn-small">Buscar</button>
                         </form>  
                     </div>
                     <div id="prefeito">
@@ -50,12 +45,16 @@
                 <a href="#meta-4">4</a>
             </div>
             <div id="metas">
-                    <div id="meta-{{meta.numero}}" class="meta" data-template>
-                        <div class="adote"><span>ADOTE ESTA META</span><span class="metaNumero">{{meta.meta_numero}}</span></div>
+                    <div id="meta-{{meta_numero}}" class="meta" data-template>
+                        <div class="adote"><span>ADOTE ESTA META</span><span class="metaNumero">{{meta_numero}}</span></div>
+                        <div class="status pendente"><span>PENDENTE</span></div>
                         <div class="descricao">{{meta}}</div>
-                        <div class="avalicao">
-                            <span class="realizada" width="40%">40</span>
-                            <span class="pendente" width="60%">60</span>
+                        <div class="label_avaliacao">Quanto já foi feito?</div>
+                        <div class="avaliacao">
+                            <div class="realizada" style="width:40%;"></div>
+                       </div>
+                       <div class="enviar">
+                            <button class="btn-small">enviar</button>
                        </div>
                        <div class="comment">
                             <a href="#">comentar (0)</a>
